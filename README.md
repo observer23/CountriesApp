@@ -1,9 +1,9 @@
 # CountriesApp
 A list of some countries which you can learn about them.
 
-*VIPER Pattern, 
-*API,
-*CoreData,
+*VIPER Pattern
+*API
+*CoreData
 *Not used SwiftUI.
 
 
